@@ -1,0 +1,14 @@
+{
+  "name": "pgdesign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/orlandovallejos/pgdesign.git",
+  "author": "Paola Guerra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
